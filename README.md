@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://rastrainj.visualstudio.com/ContosoAir/_apis/build/status/rastrainj.ContosoAir?branchName=master)](https://rastrainj.visualstudio.com/ContosoAir/_build/latest?definitionId=6&branchName=master)
 
 # Microsoft.Github CI Demo
 
